@@ -24,6 +24,14 @@ Urban Flow
 - census
 
 ## Infrastructure Data
+
+### Boundary Data
+- 시군구
+- 읍면동
+
+### Land Use Data
+- 필지 데이터
+
 ### Building Data
 - Construction
 - Destruction
