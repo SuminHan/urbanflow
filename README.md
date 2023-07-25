@@ -1,40 +1,38 @@
 # UrbanFlow
-Urban Flow
+Urban Flow -- Easy database access library
 
-## Functions
-
-## Traffic
-- Traffic speed
-- Traffic volume
+## Traffic TOPIS
+- [ ] Traffic speed
+- [ ] Traffic volume
 
 ## Transportation
 #### Bus Data
-
+- [ ] Hourly
 
 #### Subway Data
-- Station location (lat, lon)
-- Monthly
-- Hourly
+- [ ] Station location (lat, lon)
+- [ ] Monthly
+- [ ] Hourly
 
 ## Population Data
 ### Live Population Data
-- Staying
-- OD
+- [ ] Staying
+- [ ] Orient-Destination (OD)
 ### Census Data
-- census
+- [ ] census
 
 ## Infrastructure Data
 
 ### Boundary Data
-- 시군구 [ ]
-- 읍면동 [ ]
+- [ ] 시군구
+- [ ] 읍면동
 
 ### Land Use Data
-- 필지 데이터
+- [ ] 필지 데이터
 
 ### Building Data
-- Construction
-- Destruction
+- [ ] Construction
+- [ ] Destruction
 
 ### Local Data
-- Local place data
+- [ ] Local place data
