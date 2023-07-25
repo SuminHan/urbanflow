@@ -26,8 +26,8 @@ Urban Flow
 ## Infrastructure Data
 
 ### Boundary Data
-- 시군구
-- 읍면동
+- 시군구 [ ]
+- 읍면동 [ ]
 
 ### Land Use Data
 - 필지 데이터
